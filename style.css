@@ -1,0 +1,37 @@
+*{
+    
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #483d8b;
+    font: normal 15pt Arial;
+}
+h1{
+    color:rgb(249, 255, 255);
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+
+}
+section{
+    background-color: aliceblue;  
+    width: 500px;
+    padding: 15px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px 0 #00000063;
+    
+    
+}
+div{
+    padding: 10px;
+}
+
+footer{
+    color: antiquewhite;
+    text-align: center;
+    font-style: italic;
+    margin-top: 20px;
+}
