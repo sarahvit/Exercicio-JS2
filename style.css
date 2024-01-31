@@ -35,3 +35,18 @@ footer{
     font-style: italic;
     margin-top: 20px;
 }
+@media screen and (max-width: 514px) {
+    section{
+        padding: 20px;
+        width: 95%;
+        
+        
+        
+    }
+    h1{
+        margin: 15px;
+        margin-bottom: 30px;
+        text-align: center;
+    
+    }
+}
